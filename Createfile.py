@@ -4,7 +4,7 @@
 # Date: 3/7/24
 
 # Importing the sqlite3 module which establishes a connection to the database.
-# Inputting a varibale called connectiond which establishes the database name as 'questions.db'.
+# Inputting a variable called connection which establishes the database name as 'questions.db'.
 # Create a cursor variable to interact with the database.
 
 import sqlite3
